@@ -1,0 +1,10 @@
+C:\Git_proj\PalindromOrNot\PalindromOrNot\obj\Debug\PalindromOrNot.csproj.AssemblyReference.cache
+C:\Git_proj\PalindromOrNot\PalindromOrNot\obj\Debug\PalindromOrNot.Properties.Resources.resources
+C:\Git_proj\PalindromOrNot\PalindromOrNot\obj\Debug\PalindromOrNot.csproj.GenerateResource.cache
+C:\Git_proj\PalindromOrNot\PalindromOrNot\obj\Debug\PalindromOrNot.csproj.CoreCompileInputs.cache
+C:\Git_proj\PalindromOrNot\PalindromOrNot\bin\Debug\PalindromOrNot.exe.config
+C:\Git_proj\PalindromOrNot\PalindromOrNot\bin\Debug\PalindromOrNot.exe
+C:\Git_proj\PalindromOrNot\PalindromOrNot\bin\Debug\PalindromOrNot.pdb
+C:\Git_proj\PalindromOrNot\PalindromOrNot\obj\Debug\PalindromOrNot.Palindrome.resources
+C:\Git_proj\PalindromOrNot\PalindromOrNot\obj\Debug\PalindromOrNot.exe
+C:\Git_proj\PalindromOrNot\PalindromOrNot\obj\Debug\PalindromOrNot.pdb
